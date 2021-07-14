@@ -1,0 +1,1 @@
+export { BidTable } from './main';

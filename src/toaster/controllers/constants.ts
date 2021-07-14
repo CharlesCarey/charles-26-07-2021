@@ -1,0 +1,1 @@
+export const AUTO_DISMISS_THRESHOLD = 3000;

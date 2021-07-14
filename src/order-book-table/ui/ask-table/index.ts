@@ -1,0 +1,1 @@
+export { AskTable } from './main';
